@@ -8,9 +8,12 @@
 - [Acknowledgements](#Acknowledgements)
 
 ## Overview
-When playing fantasy football, we often look for players who score the most points. We will predominantly use past points scored to help us understand how much a player might score in the future. Most owners believe that this is the only way to predicit future player production, but luckily there is another feature that can be used which is known as player usage. 
+When playing fantasy football, we often look for players who score the most points. We predominantly use past points scored to help us understand how much a player might score in the future. Most owners believe that this is the only way to predicit future player production and will often make season long decisions based on prior player performances. However, just like in financial markets, past performance is not awlays a guarantee of future results. I have come up with another feature that can help determine future performance that doesn't solely involve previous fantasy points scored. This feature is better known as player usage.
 
-Player usage refers to the amount of times a player is involved throughout a game. A player's usage can include the number of times he ran the ball or was thrown the ball. In this study, we will dive into understand how player usage can be leveraged to understand and predict fantasy points scored. In order to understand how usage can help us predict fantasy points scored, I will be using my programming knowledge along with my data analysis skills to understand how usage and points scored were related in 2022. This project will allow us to understand the relationship with usage and points, along with pinpointing players that might do better or worse in the future. 
+Player usage refers to the amount of times a player is involved throughout a game. A player's usage can include the number of times he ran the ball or was thrown the ball. In this study, I have showcased how we can player usage can be leveraged to understand and predict fantasy points scored. This will allow us to utilize leverage to make data driven decisions throughout a fantasy football season.
+
+In this project, I was able pull multiple insights from a singular dataset (2022 stats) and was able to apply my statistics background to help derive answers to my big question: How can we use player usage in fantasy football?
+
 
 ## Skills & Tools
 - Python
