@@ -10,7 +10,7 @@
 ## Overview
 When playing fantasy football, we often look for players who score the most points. We predominantly use past points scored to help us understand how much a player might score in the future. Most owners believe that this is the only way to predicit future player production and will often make season long decisions based on prior player performances. However, just like in financial markets, past performance is not awlays a guarantee of future results. I have come up with another feature that can help determine future performance that doesn't solely involve previous fantasy points scored. This feature is better known as player usage.
 
-Player usage refers to the amount of times a player is involved throughout a game. A player's usage can include the number of times he ran the ball or was thrown the ball. In this study, I have showcased how we can player usage can be leveraged to understand and predict fantasy points scored. This will allow us to utilize leverage to make data driven decisions throughout a fantasy football season.
+Player usage refers to the amount of times a player is involved throughout a game. A player's usage can include the number of times he ran the ball or was thrown the ball. In this study I have showcased how the player usage statistic can be leveraged to predict fantasy points scored.
 
 In this project, I was able pull multiple insights from a singular dataset (2022 stats) and was able to apply my statistics background to help derive answers to my big question: How can we use player usage in fantasy football?
 
