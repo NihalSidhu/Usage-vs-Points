@@ -27,7 +27,7 @@ The project and the process of determinining the relationship between usage and 
 
 
 ## Contact Me
-Email: [nihalsidhu1@gmail.com](nihalsidhu1@gmail.com])
+Email: [nihalsidhu1@gmail.com](mailto:nihalsidhu1@gmail.com])
 
 LinkedIn: [Nihal Sidhu](https://www.linkedin.com/in/nihal-sidhu/)
 
