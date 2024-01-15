@@ -22,6 +22,12 @@ In this project, I was able pull multiple insights from a singular dataset (2022
 - Data visualizations
 - Regression analysis
 
+## Sneak Peak
+
+![image](https://github.com/NihalSidhu/Usage-vs-Points/assets/111151666/e09b5c6e-5628-40a1-8dbc-b808bf2dabf2)
+
+Graph showcasing the relationship between player usage and their fantasy performance across skill positions.
+
 ## The Project
 The project and the process of determinining the relationship between usage and points scored can be found here: [The Project](https://github.com/NihalSidhu/Usage-vs-Points/blob/main/PlayerUsageVersusPointsScored.ipynb).
 
